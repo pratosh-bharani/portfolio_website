@@ -12,4 +12,5 @@ with col2:
     content = """
     Hi, I am Pratosh! I'm a data analyst, a Python programmer, and an amateur photographer.
     """
-    st.info(content)
+    st.write(content)
+st.write("Below you can find some of the apps I have built in Python. Feel free to contact me!")
