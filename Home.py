@@ -41,4 +41,3 @@ with col4:
         # Below is the syntax for adding hyperlink
         st.write(f"[Source Code]({df['url'][ind]})")
 
-df.columns
