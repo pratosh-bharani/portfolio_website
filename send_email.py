@@ -10,7 +10,6 @@ def send_email(message):
 
     username = "pratoshb.othersubs@gmail.com"
     password = pw
-    #password = "celsgdifitzyldwi"
 
     receiver = "pratoshb.social@gmail.com"
     context = ssl.create_default_context()
